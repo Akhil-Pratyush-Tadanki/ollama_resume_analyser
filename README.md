@@ -24,8 +24,7 @@ After writing the model file create your custom model using command
 using custom model in vs code/ notebook using langchain
 ```
 from langchain.llms import 0llama
-ollama = 0llama (base url='http: //localhost:11434'
-model= "<custom_model_name>")
+ollama = 0llama (base url='http: //localhost:11434', model= "<custom_model_name>")
 print (ollama ("who are you?")) #test your custom model
 ```
 You can also use ollama models with api calls which is not demonstrated in this project.
