@@ -39,8 +39,11 @@ VS code environment setup using conda
 Installing requirements
 - conda activate <your_env_name> #activate your env
 - pip install -r requirements.txt # installl all required libraries
-- conda deactivate
-   
+- conda deactivate #deactivate env after use
+
+Running streamlit app
+- streamlit run app.py 
+  
 
 ## Project overview
 1. Install and run llm (ollama) locally into your system
