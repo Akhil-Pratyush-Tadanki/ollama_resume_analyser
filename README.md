@@ -5,7 +5,7 @@ AI-powered text analysis agent, designed to help job seekers by analysing job de
 Install Ollama3 from https://ollama.com
 List of models available in ollama- https://ollama.com/library
 
-Running ollama in terminal-
+Running ollama in terminal
 - ollama pull <Model_Name> #Downloads the model
 - ollama run <Model_Name> # Runs the model
 - ollama list #list of installed models
