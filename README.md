@@ -49,7 +49,3 @@ Running streamlit app
 2. Use LLM to analyse resume and job description to give missing keywords and matching score and suggestions.
 3. Build a custom modelfile to tailor the model to our needs and create your custom LLM model.
 4. Use langchain to use your custom model and make the analyser application using streamlit.
-
-
-## Output streamlit app
-
